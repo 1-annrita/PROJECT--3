@@ -1,0 +1,50 @@
+body {
+  /* background-color: aquamarine; */
+  font-size: 20px;
+  font-family: sans-serif;
+}
+label {
+  /* background-color: #767dea; */
+  margin-bottom: 20px;
+  font-size: 20px;
+  display: block;
+  /*  Take Up Full Width: They expand to fill the entire width of their container by default, unless given specific width properties.
+  Force Line Breaks: They start on a new line and push any subsequent content below them.
+   */
+}
+
+
+select {
+  /* font-size: 20px;
+  margin-bottom: 20px; */
+}
+
+
+input[type="number"] {
+  /* display: block;
+  font-size: 20px;
+  margin-bottom: 20px; */
+}
+
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-color: #45d619;
+  text-align: center;
+  color: #fff;
+  line-height: 150px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.purple {
+  background-color: #767dea;
+}
+.text-black {
+  /* color: #424242; */
+}
+.text-orange {
+  /* color: #ffc26f; */
+}
